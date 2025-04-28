@@ -17,26 +17,27 @@ Thanks for stopping by — feel free to join me on this journey! ✨
 ## 🔧 Skills & Tools
 
 ### **Languages:**
-- ![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png) **C++**
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="30" height="30"> **C++**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" height="30"> **Python**
 
 ### **Tools:**
-- ![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png) **Git**
-- ![Jupyter Notebook](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/500px-Jupyter_logo.svg.png) **Jupyter Notebook**
-- ![VS Code](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Visual_Studio_Code_1.35_icon.svg/1280px-Visual_Studio_Code_1.35_icon.svg.png) **VS Code**
-- ![SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/SQL_server_logo.svg/1280px-SQL_server_logo.svg.png) **SQL**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="30" height="30"> **Git**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/500px-Jupyter_logo.svg.png" width="30" height="30"> **Jupyter Notebook**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Visual_Studio_Code_1.35_icon.svg/1280px-Visual_Studio_Code_1.35_icon.svg.png" width="30" height="30"> **VS Code**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/SQL_server_logo.svg/1280px-SQL_server_logo.svg.png" width="30" height="30"> **SQL**
 
 ### **Frameworks:**
-- ![PyTorch](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PyTorch_logo.png/800px-PyTorch_logo.png) **PyTorch**
-- ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png) **TensorFlow**
-- ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/800px-Scikit_learn_logo_small.svg.png) **Scikit-learn**
-- ![Keras](https://upload.wikimedia.org/wikipedia/commons/8/8f/Keras_logo.png) **Keras**
-- ![OpenCV](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/OpenCV_Logo_2022.svg/800px-OpenCV_Logo_2022.svg.png) **OpenCV**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PyTorch_logo.png/800px-PyTorch_logo.png" width="30" height="30"> **PyTorch**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" width="30" height="30"> **TensorFlow**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/800px-Scikit_learn_logo_small.svg.png" width="30" height="30"> **Scikit-learn**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Keras_logo.png" width="30" height="30"> **Keras**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/OpenCV_Logo_2022.svg/800px-OpenCV_Logo_2022.svg.png" width="30" height="30"> **OpenCV**
 
 ### **Data Analytics & Visualization:**
-- ![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg) **Pandas**
-- ![NumPy](https://upload.wikimedia.org/wikipedia/commons/8/8f/Numpy_logo_2020.svg) **NumPy**
-- ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/0/01/Matplotlib_logo.svg) **Matplotlib**
-- ![Power BI](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Power_BI_Logo_2022.svg/500px-Power_BI_Logo_2022.svg.png) **Power BI**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="30" height="30"> **Pandas**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Numpy_logo_2020.svg" width="30" height="30"> **NumPy**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Matplotlib_logo.svg" width="30" height="30"> **Matplotlib**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Power_BI_Logo_2022.svg/500px-Power_BI_Logo_2022.svg.png" width="30" height="30"> **Power BI**
+
 
 
