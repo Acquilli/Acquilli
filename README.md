@@ -17,27 +17,27 @@ Thanks for stopping by — feel free to join me on this journey! ✨
 ## 🔧 Skills & Tools
 
 ### **Languages:**
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="30" height="30"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" height="30">
+- **C++**: 💻
+- **Python**: 🐍
 
 ### **Tools:**
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="30" height="30"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/500px-Jupyter_logo.svg.png" width="30" height="30"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Visual_Studio_Code_1.35_icon.svg/1280px-Visual_Studio_Code_1.35_icon.svg.png" width="30" height="30"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/SQL_Server_Logo.svg/640px-SQL_Server_Logo.svg.png" width="30" height="30">
+- **Git**: 🧑‍💻
+- **Jupyter**: 📓
+- **VS Code**: 💻
+- **SQL**: 🗄️
 
 ### **Frameworks:**
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PyTorch_logo.png/800px-PyTorch_logo.png" width="30" height="30"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" width="30" height="30">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30" height="30"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Keras_logo.png" width="30" height="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/OpenCV_Logo_2022.svg/800px-OpenCV_Logo_2022.svg.png" width="30" height="30">
+- **PyTorch**: 🔥
+- **TensorFlow**: 🤖
+- **Scikit-learn**: 📊
+- **Keras**: 💡
+- **OpenCV**: 🖼️
 
 ### **Data Analytics & Visualization:**
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="30" height="30"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Numpy_logo_2020.svg" width="30" height="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Matplotlib_logo.svg" width="30" height="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Power_BI_Logo_2022.svg/500px-Power_BI_Logo_2022.svg.png" width="30" height="30">
+- **Pandas**: 🐼
+- **NumPy**: 🔢
+- **Matplotlib**: 📉
+- **Power BI**: 📊
 
 
 
