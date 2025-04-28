@@ -38,6 +38,8 @@ Thanks for stopping by — feel free to join me on this journey! ✨
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Numpy_logo_2020.svg" width="30" height="30">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Matplotlib_logo.svg" width="30" height="30">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Power_BI_Logo_2022.svg/500px-Power_BI_Logo_2022.svg.png" width="30" height="30">
+![image](https://github.com/user-attachments/assets/0b81d72c-e441-4bfc-9293-a156d6aa8918)
+
 
 
 
