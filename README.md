@@ -14,18 +14,28 @@ Thanks for stopping by — feel free to join me on this journey! ✨
 - ⚡ Fun fact: I believe coffee and curiosity are the perfect fuel for coding. ☕🚀
 
 
-## 🔧 Skills & Tools
-
-### **Languages:**                                          ### **Tools:**
- - **Python**: 🐍                                           - **Git**: 🧑‍💻
-  - **C++**: 💻                                              - **Jupyter**: 📓
-                                                              - **VS Code**: 💻
-                                                               - **SQL**: 🗄️
+## 🔧 Skills & Tools                                                                           ![image](https://github.com/user-attachments/assets/375f03cb-c34f-4454-87ee-61b15afcd844)
 
 
-### **Frameworks:**                                         ### **Data Analytics & Visualization:**
-- **PyTorch**: 🔥                                           - **Pandas**: 🐼
- - **TensorFlow**: 🤖                                        - **NumPy**: 🔢
-  - **Scikit-learn**: 📊                                       - **Matplotlib**: 📉
-   - **Keras**: 💡                                               - **Power BI**: 📊
-    - **OpenCV**: 🖼️
+### **Languages:**                                          
+- **Python**: 🐍                                       
+- **C++**: 💻
+                                             
+### **Tools:**                                                            
+- **Git**: 🧑‍💻                                                          
+- **Jupyter**: 📓
+-**VS Code**: 💻
+- **SQL**: 🗄️
+
+### **Frameworks:**                                        
+- **PyTorch**: 🔥                                         
+- **TensorFlow**: 🤖                                        
+- **Scikit-learn**: 📊                                       
+- **Keras**: 💡                                                
+- **OpenCV**: 🖼️
+
+### **Data Analytics & Visualization:**
+- **Pandas**: 🐼
+- **NumPy**: 🔢
+- **Matplotlib**: 📉
+- **Power BI**: 📊
