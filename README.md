@@ -18,10 +18,12 @@ Thanks for stopping by — feel free to join me on this journey! ✨
 
 
 ### **Languages:**                                          
-- **Python**: 🐍                                       
+- **Python**: <![image](https://github.com/user-attachments/assets/39555fd6-90af-453e-81c0-0e9e2e6e3ecc)
+" alt="Logo" width="200"/>                                       
 - **C++**: 💻
                                              
-### **Tools:**                ![image](https://github.com/user-attachments/assets/375f03cb-c34f-4454-87ee-61b15afcd844)      - **Git**: 🧑‍💻                                                          
+### **Tools:**                
+- **Git**: 🧑‍💻                                                          
 - **Jupyter**: 📓
 -**VS Code**: 💻
 - **SQL**: 🗄️
