@@ -16,29 +16,16 @@ Thanks for stopping by — feel free to join me on this journey! ✨
 
 ## 🔧 Skills & Tools
 
-### **Languages:**
-- **C++**: 💻
-- **Python**: 🐍
-
-### **Tools:**
-- **Git**: 🧑‍💻
-- **Jupyter**: 📓
-- **VS Code**: 💻
-- **SQL**: 🗄️
-
-### **Frameworks:**
-- **PyTorch**: 🔥
-- **TensorFlow**: 🤖
-- **Scikit-learn**: 📊
-- **Keras**: 💡
-- **OpenCV**: 🖼️
-
-### **Data Analytics & Visualization:**
-- **Pandas**: 🐼
-- **NumPy**: 🔢
-- **Matplotlib**: 📉
-- **Power BI**: 📊
+### **Languages:**                                          ### **Tools:**
+ - **Python**: 🐍                                           - **Git**: 🧑‍💻
+  - **C++**: 💻                                              - **Jupyter**: 📓
+                                                              - **VS Code**: 💻
+                                                               - **SQL**: 🗄️
 
 
-
-
+### **Frameworks:**                                         ### **Data Analytics & Visualization:**
+- **PyTorch**: 🔥                                           - **Pandas**: 🐼
+ - **TensorFlow**: 🤖                                        - **NumPy**: 🔢
+  - **Scikit-learn**: 📊                                       - **Matplotlib**: 📉
+   - **Keras**: 💡                                               - **Power BI**: 📊
+    - **OpenCV**: 🖼️
